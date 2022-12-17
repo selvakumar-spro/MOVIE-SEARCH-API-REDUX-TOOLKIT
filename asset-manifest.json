@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MOVIE-SEARCH-API-REDUX-TOOLKIT/static/css/main.da1802bd.css",
+    "main.js": "/MOVIE-SEARCH-API-REDUX-TOOLKIT/static/js/main.aec6e29d.js",
+    "index.html": "/MOVIE-SEARCH-API-REDUX-TOOLKIT/index.html",
+    "main.da1802bd.css.map": "/MOVIE-SEARCH-API-REDUX-TOOLKIT/static/css/main.da1802bd.css.map",
+    "main.aec6e29d.js.map": "/MOVIE-SEARCH-API-REDUX-TOOLKIT/static/js/main.aec6e29d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1802bd.css",
+    "static/js/main.aec6e29d.js"
+  ]
+}
